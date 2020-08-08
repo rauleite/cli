@@ -1,5 +1,5 @@
 const david = require('david');
-const log = require('@rauljs/log');
+const log = require('@luar/log');
 const fs = require('fs');
 
 const listDependencies = (deps) => {
