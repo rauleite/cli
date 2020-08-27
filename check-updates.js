@@ -1,5 +1,5 @@
 const david = require('david');
-const log = require('@luar/log');
+const log = require('@luar/utils/log');
 const fs = require('fs');
 
 const listDependencies = (deps) => {
